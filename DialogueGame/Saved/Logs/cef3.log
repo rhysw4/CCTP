@@ -1,7 +1,9 @@
-[31384:30384:0109/144358.606:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[31384:30384:0109/144358.626:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[31384:19788:0109/144358.753:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[31384:30384:0109/144358.785:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[31384:30384:0109/144402.034:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[31384:30384:0109/145002.063:ERROR:device_event_log_impl.cc(196)] [14:50:02.048] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[31384:30384:0109/152234.035:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[6600:19928:0115/090654.206:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6600:27376:0115/090654.649:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6600:19928:0115/090655.403:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6600:19928:0115/090704.161:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[2232:17504:0115/090706.584:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-924A35B9B3DC79DE51E9E2982CC6CC5F will be ignored
+[6600:19928:0115/101213.315:ERROR:device_event_log_impl.cc(196)] [10:12:13.147] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6600:19928:0115/103800.748:ERROR:device_event_log_impl.cc(196)] [10:38:00.509] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6600:19928:0115/111454.689:ERROR:device_event_log_impl.cc(196)] [11:14:54.500] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6600:19928:0115/111658.616:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

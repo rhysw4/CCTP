@@ -40,7 +40,6 @@
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L.uasset",
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/MG/EDRUPW3EOYDDSI6HNSIVT1.uasset",
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/DialogueSystem1/BPI_Interact.uasset",
-				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/DialogueSystem1/AC_DialogueText.uasset",
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/DialogueSystem1/AC_DialogueComponent.uasset",
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/DialogueSystem1/BP_NPC.uasset",
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/Input/IMC_Default.uasset",
@@ -50,6 +49,10 @@
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/DialogueSystem1/S_Dialogue.uasset",
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/DialogueSystem1/DT_Dialogue.uasset",
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/DialogueSystem1/WB_Dialogue.uasset",
+				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset",
+				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/InteractionSystem/NewMaterial.uasset",
+				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/DialogueSystem1/AC_DialogueText.uasset",
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/Dialogue/1/BP_NPC1.uasset",
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/Dialogue/1/AC_DialogueComponentBase1.uasset"
 			]
