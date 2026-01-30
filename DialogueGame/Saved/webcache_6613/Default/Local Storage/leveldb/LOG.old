@@ -1,9 +1,3 @@
-2026/01/23-11:49:25.531 6b68 Reusing MANIFEST C:\Users\wibbl\OneDrive\Documents\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/01/23-11:49:25.536 6b68 Recovering log #3
-2026/01/23-11:49:25.539 6b68 Reusing old log C:\Users\wibbl\OneDrive\Documents\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
-2026/01/23-11:53:58.803 1854 Level-0 table #5: started
-2026/01/23-11:53:58.808 1854 Level-0 table #5: 21384 bytes OK
-2026/01/23-11:53:58.811 1854 Delete type=0 #3
-2026/01/23-11:57:58.809 1854 Level-0 table #7: started
-2026/01/23-11:57:58.817 1854 Level-0 table #7: 20317 bytes OK
-2026/01/23-11:57:58.821 1854 Delete type=0 #4
+2026/01/30-12:05:57.322 76a8 Reusing MANIFEST C:\Users\wibbl\OneDrive\Documents\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/30-12:05:57.335 76a8 Recovering log #6
+2026/01/30-12:05:57.338 76a8 Reusing old log C:\Users\wibbl\OneDrive\Documents\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\Local Storage\leveldb/000006.log 
