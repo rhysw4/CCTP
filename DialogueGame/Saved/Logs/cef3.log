@@ -1,10 +1,6 @@
-[41420:8596:0226/100902.880:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[41420:8596:0226/100902.891:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[41420:36076:0226/100902.945:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[41420:8596:0226/100902.970:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[41420:8596:0226/100926.761:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[15332:13976:0226/100935.516:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CD7D1AE9262EDAC21781DF813578B3C2 will be ignored
-[6400:20172:0226/100937.308:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
-[25780:27540:0226/100937.723:ERROR:ffmpeg_common.cc(965)] Unsupported pixel format: -1
-[25780:16356:0226/100944.145:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-B87913478BB40CC769F21E8B1694DB06 will be ignored
-[41420:8596:0226/101148.691:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[11876:22540:0423/100855.636:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11876:28716:0423/100855.737:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11876:22540:0423/100855.767:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11876:22540:0423/100906.001:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[21920:23148:0423/100909.109:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-861885173E1D6739271154164EC08793 will be ignored
+[11876:22540:0423/104925.922:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
