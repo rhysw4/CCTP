@@ -1,7 +1,8 @@
-[29992:14836:0424/091307.279:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[29992:7456:0424/091307.482:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[29992:14836:0424/091307.587:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[29992:14836:0424/091313.961:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[13748:22536:0424/091315.124:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7ECA66A13C7AEEF53616D089DD4CBE42 will be ignored
-[29992:14836:0424/092328.619:ERROR:device_event_log_impl.cc(196)] [09:23:28.509] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[29992:14836:0424/103300.402:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[17608:22376:0424/103438.822:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17608:11276:0424/103438.989:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17608:22376:0424/103439.057:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17608:22376:0424/103446.060:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[1332:8692:0424/103448.443:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-86D00BB339DB21CAAF1B9FA9DA51AFB6 will be ignored
+[17608:22376:0424/111738.390:ERROR:device_event_log_impl.cc(196)] [11:17:38.194] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17608:22376:0424/111945.197:ERROR:device_event_log_impl.cc(196)] [11:19:45.004] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17608:22376:0424/122235.959:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
