@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/HE/Degree/GitHub/CCTP/DialogueGame/Content/Cinematic1/StartingCinematic/DialogueUI/DT_CutsceneDialogue.uasset",
+				"D:/HE/Degree/GitHub/CCTP/DialogueGame/Content/Cinematic1/StartingCinematic/DialogueUI/WB_CutsceneDialogue1.uasset",
+				"D:/HE/Degree/GitHub/CCTP/DialogueGame/Content/Cinematic1/StartingCinematic/CinematicMap.umap",
+				"D:/HE/Degree/GitHub/CCTP/DialogueGame/Content/Cinematic1/StartingCinematic/Sequence/LS_EndCutscene.uasset",
+				"D:/HE/Degree/GitHub/CCTP/DialogueGame/Content/Cinematic1/StartingCinematic/Sequence/LS_Camera4.uasset",
+				"D:/HE/Degree/GitHub/CCTP/DialogueGame/Content/Cinematic1/StartingCinematic/Sequence/LS_Camera3.uasset",
+				"D:/HE/Degree/GitHub/CCTP/DialogueGame/Content/Cinematic1/StartingCinematic/Sequence/LS_EndSequence.uasset",
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/X5/JDOWWCJ7DZVSHT4Y29GQ4D.uasset",
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/9R/UKIMD8EYGPZFS8OC6GX24A.uasset",
 				"C:/Users/wibbl/OneDrive/Documents/GitHub/CCTP/DialogueGame/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset",

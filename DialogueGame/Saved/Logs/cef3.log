@@ -1,6 +1,16 @@
-[3168:7276:0424/132739.505:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[3168:4556:0424/132739.612:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[3168:7276:0424/132739.635:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[3168:7276:0424/132744.073:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[9792:28152:0424/132748.977:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3494BF3EBE5DE381706C6C8CB31F2B55 will be ignored
-[3168:7276:0424/150747.095:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[20088:25620:0428/113845.551:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20088:25592:0428/113845.648:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20088:25620:0428/113845.660:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20088:25620:0428/113848.276:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[20088:11728:0428/113848.291:WARNING:leveldb_database.cc(141)] Unable to open D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20088:11728:0428/113848.296:WARNING:leveldb_database.cc(141)] Unable to open D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20088:11728:0428/113848.299:WARNING:leveldb_database.cc(141)] Unable to open D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20088:11728:0428/113848.302:WARNING:leveldb_database.cc(141)] Unable to open D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20088:15636:0428/113848.590:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20088:15636:0428/113848.596:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29644:30356:0428/113851.126:ERROR:backend_impl.cc(989)] Critical error found -8
+[20088:29496:0428/113851.298:WARNING:leveldb_database.cc(141)] Unable to open D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29644:30356:0428/113851.298:WARNING:storage_block-inl.h(138)] Failed data load.
+[28656:8960:0428/113851.825:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0318E75B280EBF7F0AA725384DB938EE will be ignored
+[20088:25620:0428/125118.420:ERROR:device_event_log_impl.cc(196)] [12:51:18.413] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[20088:25620:0428/130650.683:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
