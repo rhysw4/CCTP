@@ -1,5 +1,1 @@
-2026/04/28-11:38:45.715 69c8 Log #3: 26 ops saved to Table #4 OK
-2026/04/28-11:38:45.719 69c8 Archiving D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/04/28-11:38:45.719 69c8 Table #4: 26 entries OK
-2026/04/28-11:38:45.726 69c8 Archiving D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/04/28-11:38:45.747 69c8 **** Repaired leveldb D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 508 bytes. Some data may have been lost. ****
+2026/04/28-11:38:45.756 69c8 Reusing MANIFEST D:\HE\Degree\GitHub\CCTP\DialogueGame\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
